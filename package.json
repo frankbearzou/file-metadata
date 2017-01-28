@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/frankbearzou/file-metadata.git"
+    "url": "https://github.com/frankbearzou/file-metadata.git"
   },
   "author": "Frank Zou",
   "license": "MIT",
