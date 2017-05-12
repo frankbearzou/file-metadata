@@ -1,5 +1,5 @@
 # File Metadata Microservice
-checking live demo at [Gomix](https://frankbearzou-file-metadata.gomix.me).
+checking live demo at [Glitch](https://frankbearzou-file-metadata.glitch.me).
 
 ## User Stories
 - I can submit a FormData object that includes a file upload.
